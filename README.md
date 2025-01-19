@@ -3,8 +3,9 @@
 Welcome to the **DataCraft** repository! This is where we share all the content related to data engineering, big data, cloud, and AI.
 
 
-🎥 **Check out our YouTube Channel:** [DataCraftingByPradeep](https://www.youtube.com/@DataCraftingByPradeep/playlists)**
-🎥 **Check out Whiteboard:** [WhiteBoard Notes](1drv.ms/u/s!AqfHDdoQUiHZhG_F-ZVaHBL6YSiA)**
+🎥 **Check out our YouTube Channel:** [DataCraftingByPradeep](https://www.youtube.com/@DataCraftingByPradeep/playlists)
+
+🎥 **Check out Whiteboard:** [WhiteBoard Notes](https://1drv.ms/o/c/d9215210da0dc7a7/EqfHDdoQUiEggNlvAgAAAAABYS6NOhkdo9v2BdQQgfb_ig?e=7Zyzvl)
 
 ## 📚 What We Offer:
 - **BigData Engineering Essentials** 🎥 **Check out our YouTube playlist for:** [Big Data Engineering](https://www.youtube.com/playlist?list=PLi4zszssJpqYcyQVGtS47jYqXVVdFmwLT)
