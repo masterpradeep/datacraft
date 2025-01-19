@@ -1,17 +1,18 @@
 # 🌟 **Welcome to DataCraft** 🌟
 
-**DataCraft** is dedicated to nurturing the next generation of data engineers. Our mission is to inspire and equip every student to become a master of data engineering and technology.
-
-Welcome to the **DataCraft** repository! This is the place where we share all the content related to Data Engineering, Big Data, Cloud, and AI.
+Welcome to the **DataCraft** repository! This is where we share all the content related to data engineering, big data, cloud, and AI.
 
 
-🎥 **Check out our YouTube Channel:** [DataCraftingByPradeep](https://www.youtube.com/@DataCraftingByPradeep/playlists)
+🎥 **Check out our YouTube Channel:** [DataCraftingByPradeep](https://www.youtube.com/@DataCraftingByPradeep/playlists)**
+🎥 **Check out Whiteboard:** [WhiteBoard Notes](1drv.ms/u/s!AqfHDdoQUiHZhG_F-ZVaHBL6YSiA)**
 
 ## 📚 What We Offer:
-- **Data Engineering Essentials**
-- **Big Data Insights**
-- **Cloud & AI Solutions**
+- **BigData Engineering Essentials** 🎥 **Check out our YouTube playlist for:** [Big Data Engineering](https://www.youtube.com/playlist?list=PLi4zszssJpqYcyQVGtS47jYqXVVdFmwLT)
+- **AWS Cloud Essentials** 🎥 **Check out our YouTube playlist for:** [Cloud Computing - AWS Foundations](https://www.youtube.com/playlist?list=PLi4zszssJpqY6EMAN5qmz8qsCZ4398yql)
+- **AI- Generative Essentials** 🎥 **Check out our YouTube playlist for:** [AI - Generative AI](https://www.youtube.com/playlist?list=PLi4zszssJpqbvfI5cKlyyzHzhGas_AvVw)
 
 🛠 **Mission:** Empowering every student to be a **Data Craftsman**!
 
-![DataCraft Logo](insert-your-logo-url-here)
+
+© 2025 DataCraft. All rights reserved.
+
